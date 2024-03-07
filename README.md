@@ -1,6 +1,6 @@
 Welcome to my github page.
 
-Around here, you may find some of my personal projects coded with Python and JavaScript.
+Around here, you may find some of my personal projects.
 
 <!---
 ozdemirozcelik/ozdemirozcelik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
